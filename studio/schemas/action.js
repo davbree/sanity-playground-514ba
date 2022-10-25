@@ -1,7 +1,7 @@
 export default {
     title: 'Action',
     name: 'action',
-    type: 'object',
+    type: 'object'
     preview: { select: { title: 'label' } },
     fields: [
         {
