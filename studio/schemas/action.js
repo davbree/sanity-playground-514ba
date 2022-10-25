@@ -2,7 +2,7 @@ export default {
     title: 'Action',
     name: 'action',
     type: 'object',
-    preview: { select: { title: 'labeal12' } },
+    preview: { select: { title: 'labeal123' } },
     fields: [
         {
             type: 'string',
