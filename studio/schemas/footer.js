@@ -1,5 +1,5 @@
 export default {
-    title: 'Footer Configuration',
+    title: 'Footer Configuratio!n',
     name: 'footer',
     type: 'object',
     preview: { select: { title: 'tagline' } },
